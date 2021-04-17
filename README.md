@@ -7,7 +7,7 @@ Web3 x Social Impact + Civil Disobedience
 Inspiration:
 https://www.youtube.com/watch?v=Dv3LyUoxYIE
 
-# Material: Especialización (4 cursos) coursera:
+# Material: Especialización coursera:
 https://www.coursera.org/specializations/blockchain-revolution-enterprise
 
 ## Acerca de este Programa Especializado
